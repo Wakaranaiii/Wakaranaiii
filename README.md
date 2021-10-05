@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Languages, Scripts & other stuff:
 - Python3
 - Bash
-- PowerShell7 (only basics)
+- PowerShell7
 - C (only basics)
 - HTML5 & CSS (only basics)
 - SPS

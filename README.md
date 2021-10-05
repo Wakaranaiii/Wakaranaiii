@@ -23,6 +23,8 @@ Languages, Scripts & other stuff:
 - PowerShell7
 - C (only basics)
 - HTML5 & CSS (only basics)
+- SPS
+- i will never work with java
 
 At work with Windows, preferably with Linux at home.
 

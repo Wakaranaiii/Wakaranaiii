@@ -19,13 +19,7 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/84783927/136074482-6933bd75-fd1b-44ac-8d6f-d34eb30945d9.png)
 
 Languages, Scripts & other stuff:
-- Python3
-- Bash
-- PowerShell7 (only basics)
-- C (only basics)
-- HTML5 & CSS (only basics)
-- SPS
-- i will never work with java
+- Stackoverflow
 
 At work with Windows, preferably with Linux at home.
 

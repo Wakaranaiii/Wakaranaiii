@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="assets/anime_programming.gif" alt="" width="143px">
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Octocat" width="100">
+
+<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevforum.roblox.com%2Ft%2Fgame-design-theory-project-management-with-devops-analytics-and-pipelines-for-successful-games-and-productive-teams%2F568057&psig=AOvVaw0P4IhIiqJEspr0DEs1u1YC&ust=1634633426061000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCJjm55fK0_MCFQAAAAAdAAAAABAE" alt="" width="143px">
 
 Programming Languages:
 - Stackoverflow

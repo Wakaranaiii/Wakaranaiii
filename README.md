@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/84783927/136074482-6933bd75-fd1b-44ac-8d6f-d34eb30945d9.png)
 
-Languages, Scripts & other stuff:
+Programming Languages:
 - Stackoverflow
 
 At work with Windows, preferably with Linux at home.

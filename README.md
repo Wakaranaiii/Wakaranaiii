@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Octocat" width="100">
-
-<img align="left" src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif" alt="" width="143px">
+<img align="right" src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif" alt="" width="200px">
 
 Programming Languages:
 - Stackoverflow

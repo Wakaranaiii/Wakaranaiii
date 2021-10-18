@@ -1,6 +1,6 @@
-## `>_About.Me()`
+# `>_About.Me()`
 
-# Hi there 👋
+## Hi there 👋
 <!--
 **Wakaranaiii/Wakaranaiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif" alt="" width="200px">
 
-# Programming Languages:
+### Programming Languages:
 - Stackoverflow

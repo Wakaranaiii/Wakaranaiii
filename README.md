@@ -22,7 +22,3 @@ Here are some ideas to get you started:
 
 Programming Languages:
 - Stackoverflow
-
-
-
-Microsft is the most expensive computer virus in the world.

@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 Programming Languages:
 - Stackoverflow
 
-At work with Windows, preferably with Linux at home.
+
 
 Microsft is the most expensive computer virus in the world.

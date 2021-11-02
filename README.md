@@ -10,7 +10,7 @@
 
 <p>
     <a href="https://github.com/Wakaranaiii" style="width: 100%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Wakaranaiii&show_icons=true&theme=Hacker" alt="" height="160px"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakaranaiii&layout=compact&theme=Hacker&langs_count=6" alt="" height="160px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Wakaranaiii&show_icons=true&theme=ekyll" alt="" height="160px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakaranaiii&layout=compact&theme=jekyll&langs_count=6" alt="" height="160px"/>
     </a>
 </p>

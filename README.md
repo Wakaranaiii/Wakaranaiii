@@ -11,6 +11,6 @@
 <p>
     <a href="https://github.com/Wakaranaiii" style="width: 100%">
         <img src="https://github-readme-stats.vercel.app/api?username=Wakaranaiii&show_icons=true&theme=radical" alt="" height="160px"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakaranaiii&layout=compact&theme=radical&langs_count=6&hide=qml,glsl,c,roff,cmake" alt="" height="160px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakaranaiii&layout=compact&theme=night&langs_count=6" alt="" height="160px"/>
     </a>
 </p>

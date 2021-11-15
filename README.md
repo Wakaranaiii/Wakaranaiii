@@ -5,12 +5,3 @@
 
 ## `>_Programming_Languages.Me()`
 - Stackoverflow
-
-## `>_About.Stats()`
-
-<p>
-    <a href="https://github.com/Wakaranaiii" style="width: 100%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Wakaranaiii&show_icons=true&theme=gruvbox" alt="" height="160px"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakaranaiii&layout=compact&theme=gruvbox&langs_count=6" alt="" height="160px"/>
-    </a>
-</p>

@@ -5,3 +5,7 @@
 
 ## `>_Programming_Languages.Me()`
 - Stackoverflow
+
+
+## `>_Editor.Me()`
+I dont use an IDE, I use Vim, I use Vim for all text editing, even software development.

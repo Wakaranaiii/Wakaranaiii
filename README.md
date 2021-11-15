@@ -9,4 +9,6 @@
 
 ## `>_Editor.Me()`
 I dont use an IDE, I use Vim, I use Vim for all text editing, even software development.
+
+
 <img align="left" src="https://img.devrant.com/devrant/rant/r_2080368_znDCZ.jpg" alt="" width="400px">
